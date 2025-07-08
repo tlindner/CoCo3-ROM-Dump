@@ -10,7 +10,7 @@ Hardware requirements are:
 
 If you are trying the dump a ROM from a floppy disk controller, there is no need for a Multi-Pak Interface.
 
-Setup up your CoCo 3 system insert the disk and `RUN "ROMDUMP"`.
+Setup up your CoCo 3 system insert the disk and `RUN "DISKROM"`.
 
 You will be asked to describe where the cartridges are slotted into your Multi-Pak Interface. Then the program will create four ROM files on the disk in drive 0.
 
